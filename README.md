@@ -10,5 +10,5 @@ This is a command line based crypto currency exchange.
 ```
 
 ## Preview
-![preview 1](https://github.com/damiangohrh123/merkel/Screenshot 2024-04-09 140939.png)
-![preview 2](https://github.com/damiangohrh123/merkel/Screenshot 2024-04-09 151422.png)
+![preview 1](https://github.com/damiangohrh123/merkel/Screenshot%202024-04-09%20140939.png) 
+![preview 2](https://github.com/damiangohrh123/merkel/Screenshot%202024-04-09%20151422.png)
